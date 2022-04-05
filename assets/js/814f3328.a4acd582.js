@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpixel_compute_lang_doc=self.webpackChunkpixel_compute_lang_doc||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"0.1.0\u53d1\u884c\u65e5\u5fd7","permalink":"/blog/0.1.0\u53d1\u884c\u65e5\u5fd7"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpixel_compute_lang_doc=self.webpackChunkpixel_compute_lang_doc||[]).push([[988],{4469:function(e){e.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-blog","id":"default"}}')}}]);

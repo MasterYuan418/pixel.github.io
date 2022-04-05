@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pixel.risconn.com/blog</id>
+    <title>PixelCompute Language Blog</title>
+    <updated>2022-04-04T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pixel.risconn.com/blog"/>
+    <subtitle>PixelCompute Language Blog</subtitle>
+    <icon>https://pixel.risconn.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[0.1.0发行日志]]></title>
+        <id>0.1.0发行日志</id>
+        <link href="https://pixel.risconn.com/blog/0.1.0发行日志"/>
+        <updated>2022-04-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[好耶！Pixel 0.1.0.0现已发布。]]></summary>
+        <content type="html"><![CDATA[<p>好耶！Pixel 0.1.0.0现已发布。</p><p>这是Pixel语言的第一个发布版。我们将致力于完善文档。</p>]]></content>
+        <author>
+            <name>Pixel Maintainer Committee</name>
+            <uri>https://pixel.risconn.com/</uri>
+        </author>
+    </entry>
+</feed>
